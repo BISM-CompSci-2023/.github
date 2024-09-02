@@ -68,15 +68,12 @@ All homework assignments should be submitted under the `/assignments` folder. Pl
 
 ## Resources
 
-- [IB DP Computer Science Curriculum Guide](https://www.ibo.org)
-- [GitHub Learning Lab](https://lab.github.com/) for tutorials on using Git and GitHub.
+- [IB DP Computer Science Curriculum Guide](https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/)
+- [GitHub Learning Lab](https://lab.github.com/)](https://github.com/apps/github-learning-lab) for tutorials on using Git and GitHub.
 
 ## Contact
 
-For any inquiries or additional support, please contact the organization admin at [admin@example.com](mailto:admin@example.com).
+For any inquiries or additional support, please contact the organization admin at [nikolay@bism3.com](mailto:nikolay@bism3.com).
 
 ---
 Thank you for being part of the IB DP Computer Science Teaching Support community! Your contributions are invaluable in supporting our collective learning journey.
-```
-
-Customize the placeholders ([admin@example.com](mailto:admin@example.com), your-username, etc.) with your actual information before publishing this README. This markdown file can be a helpful reference for everyone involved in the organization.
